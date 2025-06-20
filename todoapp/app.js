@@ -70,6 +70,4 @@ else if (command === "read"){
 }
 
 
-/*console.log(tasks);
-console.log("number of tasks:", tasks.length);*/
 
